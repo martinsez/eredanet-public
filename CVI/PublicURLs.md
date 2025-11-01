@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/martinsez/EredaNet-Public/refs/heads/main
+https://raw.githubusercontent.com/martinsez/EredaNet-Public/refs/heads/main/
